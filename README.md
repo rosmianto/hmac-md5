@@ -3,7 +3,7 @@ This is a HMAC-MD5 library implementation for ESP8266 on Arduino IDE. This libra
 16-byte hash result.
 
 # Usage
-'''
+```cpp
 byte msg[] = { 0x11, 0x22, 0x33, 0x44, 0x55, 0x66, 0x77, 0x88 };
 byte key[] = { 0x11, 0x22, 0x33, 0x44, 0x55, 0x66, 0x77, 0x88 };
 
@@ -22,7 +22,7 @@ void setup() {
 	}
 	// -------------- DEBUGGING PURPOSE ------------------
 }
-'''
+```
 
 # Author
 Rosmianto A. Saputro
