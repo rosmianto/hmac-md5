@@ -29,4 +29,4 @@ Rosmianto A. Saputro
 
 This library is licensed under MIT License.
 
-You are free (as in freedom) to use this library as long you attribute this library to me. I'm holding any liability for any damages that may caused by using this library.
+You are free (as in freedom) to use this library as long you attribute this library to me. I'm holding no liability for any damages that may caused by using this library.
