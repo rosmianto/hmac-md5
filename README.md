@@ -1,5 +1,5 @@
 # HMAC-MD5
-This is a HMAC-MD5 library implementation for ESP8266 on Arduino IDE. This library uses MD5 64-byte blocksize, and 
+This is an HMAC-MD5 library implementation for ESP8266 on Arduino IDE. This library uses MD5 64-byte blocksize, and 
 16-byte hash result.
 
 # Usage
